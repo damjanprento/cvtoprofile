@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/cvtoprofile/static/css/main.ab7136cd.chunk.css",
+    "main.js": "/cvtoprofile/static/js/main.87c1eed0.chunk.js",
+    "main.js.map": "/cvtoprofile/static/js/main.87c1eed0.chunk.js.map",
+    "runtime-main.js": "/cvtoprofile/static/js/runtime-main.07687f29.js",
+    "runtime-main.js.map": "/cvtoprofile/static/js/runtime-main.07687f29.js.map",
+    "static/js/2.ec215c3b.chunk.js": "/cvtoprofile/static/js/2.ec215c3b.chunk.js",
+    "static/js/2.ec215c3b.chunk.js.map": "/cvtoprofile/static/js/2.ec215c3b.chunk.js.map",
+    "static/js/3.afc08437.chunk.js": "/cvtoprofile/static/js/3.afc08437.chunk.js",
+    "static/js/3.afc08437.chunk.js.map": "/cvtoprofile/static/js/3.afc08437.chunk.js.map",
+    "index.html": "/cvtoprofile/index.html",
+    "static/css/main.ab7136cd.chunk.css.map": "/cvtoprofile/static/css/main.ab7136cd.chunk.css.map",
+    "static/js/2.ec215c3b.chunk.js.LICENSE.txt": "/cvtoprofile/static/js/2.ec215c3b.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/cvtoprofile/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.07687f29.js",
+    "static/js/2.ec215c3b.chunk.js",
+    "static/css/main.ab7136cd.chunk.css",
+    "static/js/main.87c1eed0.chunk.js"
+  ]
+}
